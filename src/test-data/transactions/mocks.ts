@@ -1,0 +1,4 @@
+export const MOCK_SENDER_PUBLIC_KEY =
+  "AfpdXGBdFiyQfXdf4x3yYWiJgPqp6xBNvy3UwHyuLgGn";
+export const MOCK_RECIPIENT_PUBLIC_KEY =
+  "2DCC44zP2BDxTKzgi4yYScEJmbyhW2G8aYCQUrEcABts";
